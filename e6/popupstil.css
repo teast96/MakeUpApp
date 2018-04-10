@@ -1,0 +1,93 @@
+#abc
+{
+ width:100%;
+height:100%;
+display:none;
+top:0;
+left:0;
+background: rgba(212,106,106,0.85);
+position:fixed;
+
+overflow:auto;
+}
+
+.divi
+{
+    height: 10%;
+    width: 100%;
+}
+
+.divii
+{
+    height: 20%;
+    width: 100%;
+}
+.inp5
+{
+    float: right;
+    padding-left: 10px;
+    height: 80%;
+}
+.inp
+{
+    float: right;
+    padding-left: 10px;
+}
+#s
+{
+    position: absolute;
+right:-17px;
+top:-17px;
+cursor:pointer;
+}
+
+.popup
+{
+    background: rgba(255,255,255,1);
+    padding:10px 50px;
+    border:2px solid gray;
+    border-radius:10px;
+    font-family:raleway;
+    
+    margin-left: 35%;
+    margin-right: 35%;
+    height: 550px;
+    position: relative;
+    fill-opacity: unset;
+    margin-top: 5%;
+}
+
+.header
+{
+background-color:#FEFFED;
+padding:20px 35px;
+margin:-10px -50px;
+font-style: oblique;
+text-align:center;
+border-radius:10px 10px 0 0;
+height: 15%;
+font-size: 35px;
+text-align: justify;
+font-family:'Raleway',sans-serif;
+}
+
+.divdug
+{
+    position: absolute;
+    height: 13%;
+    width: 100%;
+    bottom: 0;
+}
+.rezdug
+{
+    width: 50%;
+height:45px;
+margin-left: 45px;
+margin-bottom:30px;
+border-radius:10px;
+background-color:black;
+color:#fff;
+font-family:'Raleway',sans-serif;
+font-size:20px;
+cursor:pointer;
+}

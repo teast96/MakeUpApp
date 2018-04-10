@@ -1,0 +1,172 @@
+{
+
+    "skole": [
+
+        {
+            "id" : 1,
+            "ime" : "Sophie's Choice Studio",
+            "opis" : "nanana",
+            "slika" : "images/1.png",
+            "kursevi" : [
+                {
+                    
+                    "naziv" : "Filmska sminka",
+                    "opis" : "Akademski kurs filmske šminke i specijalnih efekata je napredni kurs na studijama na smeru Make Up Artist koji se već 5 godina izučava u Sophie's Choice studiu, a profesionalci sa potrebnim predznanjem ga mogu pohađati i zasebno, u okviru usavršavanja za profesionalne šminkere.",
+                    "trajanje" : "6 meseci",
+                    "slika" : "images/1.png",
+                    
+                    "cena" : 500
+                },
+                {
+                    
+                    "naziv" : "Japansko sencenje obrva",
+                    "trajanje" : "3 meseca",
+                    "opis" : "Trenutno najpopularnija metoda permanent makeup-a je japansko iscrtavanje obrva, tzv japanska metoda. Da bismo našim studentima i polaznicima kurseva omogućili da budu u toku sa potražnjom u svetu estetike, uveli smo kurs japanskog senčenja obrva-Microshading Japansko iscrtavanje dolazi iz istočnih zemalja. Ovo trajno oblikovanje obrva  ima višestruke prednosti u odnosu na trajnu šminku obrva poznatu kao ”tribal”. ",
+                    "slika" : "images/1.png",
+                    
+                    "cena" : 200
+                },
+                {
+                    
+                    "naziv" : "Nail Art",
+                    "trajanje" : "20 dana",
+                    "slika" : "images/1.png",
+                    
+                    "opis" : "Uzmite budućnost u svoje ruke! Želite li da vaša strast postane vaš posao? Izaberite najbolji program obuke sa individualnim pristupom. Uz NailArt kurs imate priliku da nastavite da napredujete. Izaberite pravu obuku",
+                    "cena" : 50
+                },
+                {
+                    
+                    "naziv" : "Kurs AIRBRUSH",
+                    "trajanje" : "20 casova",
+                    "slika" : "images/1.png",
+                    
+                    "opis" : "Kurs airbrush potamnjivanja tela se sastoji od 20 časova, u okviru kojih se savladava tehnika potamnjivanja tela airbrush aparatom. Ovaj akademski kurs Vam nudi mogućnost savršenog poznavanja potamnjivanja tela – airbrush tehnike . Kurs obuhvata teorijski i praktičan deo uz obezbeđene skripte i materijal za rad. Ovom tehnikom se može potamnjivati i telo i lice",
+                    "cena" : 100
+                },
+                {
+                    
+                    "naziv" : "Kurs trajne sminke",
+                    "trajanje" : "1 mesec",
+                    "opis" : "Trajna šminka je zapravo vrsta tetovaže kojom se boje unose pod kožu , ali za razliku od klasične tetovaže boja vremenom postaje svetlija i posle 4 godine trajno nestaje. Nanosi se specijalnim aparatima i naravno specijalnim bojama koje su odobrene od svetske zdravstvene organizacije , a sprovodi u sterilnim uslovima što podrazumeva korišćenje sterilnih igala, kao i boja koje se koriste.",
+                    "slika" : "images/1.png",
+                    
+                    "cena" : 150
+                }
+            ]
+        },
+
+        {
+            "id" : 2,
+            "ime" : "Purity Akademija",
+            "slika" : "images/2.png",
+            "opis" : "kozmetika studije estetike i kozmetologije makeup umetnosti, wellness i spa, kozmetika PURITY, obuka za sminkere kurs za kozmeticare obuka za kozmeticara.",
+            "kursevi" : [
+                {
+                    "naziv" : "Kurs estetske medicine",
+                    "trajanje" : "12 nedelja",
+                    "slika" : "images/1.png",
+                    
+                    "opis" : "Poštovane kolege i kozmetičari. Kurs estetske medicine ima za cilj da programom ovog kursa objedini sve oblasti tretmana lica u okviru estetske medicine. Program kursa traje 12 nedjelja, uključujući teoretska i praktična predavanja, dva puta nedeljno.",
+                    "cena" : 800
+                },
+
+                {
+                    "naziv" : "Manikir i pedikir",
+                    "trajanje" : "3 meseca",
+                    "slika" : "images/1.png",
+                    
+                    "opis" : "lalalala",
+                    "cena" : 400
+                },
+
+                {
+                    "naziv" : "Kurs masaze",
+                    "trajanje" : "1 mesec",
+                    "slika" : "images/1.png",
+                    
+                    "opis" : "lalalala",
+                    "cena" : 100
+                },
+
+                {
+                    "naziv" : "Obuka za pirsing",
+                    "trajanje" : "7 dana",
+                    "opis" : "lalalala",
+                    "slika" : "images/1.png",
+                    
+                    "cena" : 70
+                },
+
+                {
+                    "naziv" : "Kurs tetoviranja",
+                    "trajanje" : "6 meseci",
+                    "opis" : "lalalala",
+                    "slika" : "images/1.png",
+                    
+                    "cena" :500
+                 }
+
+            ]
+        },
+        {
+            "id" : 3,
+            "ime" : "Škola Šminke Dragan Vurdelja",
+            "opis" : "hahahaah",
+            "slika" : "images/3.png",
+            
+            "kursevi" : [
+                {
+                    
+                    "naziv" : "Kurs za Profesionalne sminkere",
+                    "trajanje" : "4 meseca",
+                    "opis" : "hahahaah",
+                    "slika" : "images/1.png",
+                    
+                    "cena" : 600
+                },
+                {
+                    
+                    "naziv" : "Nasminkaj sebe!",
+                    "trajanje" : "6 termina",
+                    "opis" : "hahahaah",
+                    "slika" : "images/1.png",
+                    
+                    "cena" : 100
+                },
+                {
+                    
+                    "naziv" : "Manikir",
+                    "trajanje" : "10 dana",
+                    "opis" : "hahahaah",
+                    "slika" : "images/1.png",
+                    
+                    "cena" : 80
+                },
+                {
+                    
+                    "naziv" : "Filmska sminka",
+                    "trajanje" : "2 meseca",
+                    "slika" : "images/1.png",
+                    
+                    "opis" : "hahahaah",
+                    "cena" : 300
+                },
+                {
+                    
+                    "naziv" : "Iscrtavanje obrva",
+                    "slika" : "images/1.png",
+                    "trajanje" : "1 mesec",
+                    "opis" : "hahahaah",
+                    "cena" : 200
+                }
+            ]
+        }
+],
+
+    "rezervacije": [
+        
+    ]
+}
+
+

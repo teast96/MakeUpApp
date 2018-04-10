@@ -1,0 +1,75 @@
+
+
+
+.poz
+{
+    
+    background-color:white;
+    width: 100%;
+    height: 100%;
+   position: absolute;
+}
+
+.nas
+{
+    height: 17%;
+    width: 100%;
+    font-size: 35px;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:  center;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    background-color: pink;
+}
+
+.slicka
+{
+    width:40%;
+    float: left;
+    height: 100%;
+}
+.telo
+{
+    
+    height: 80%;
+    width: 100%;
+    float: left;
+}
+
+.ostalo
+{
+    width:60%;
+    padding-top: 5%;
+    height: 100%;
+    font-style: oblique;
+    float: left;
+}
+.dug
+{
+    width:20%;
+    height:8%;
+    float: left;
+}
+.cena
+{
+    margin-bottom: 0px;
+    width: 65%;
+    height:8%;
+    float: left;
+    padding: 1%;
+    font-weight: bold;
+    
+}
+.divkurs
+{
+    margin-top: 50px;
+    height: 300px;
+    background-color:white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    width:47%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
